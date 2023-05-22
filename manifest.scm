@@ -1,0 +1,15 @@
+(specifications->manifest
+ '("sbcl"
+   "sbcl-alexandria"
+   "sbcl-iterate"
+   "sbcl-usocket@0.8.6"
+   "sbcl-lisp-binary"
+   "sbcl-trivia"
+   "sbcl-serapeum"
+   "sbcl-flexi-streams"
+   "sbcl-shasht"
+   "sbcl-lparallel"
+   "sbcl-arrows"
+   "sbcl-cl-str"
+   "sbcl-metabang-bind"
+   "sbcl-trivial-do"))
